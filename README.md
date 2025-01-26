@@ -10,7 +10,7 @@ Relationship Exploration: Analyze the relationship between global active power a
 Time-Series Insights: Visualize temporal trends in power usage to highlight patterns or anomalies.
 Energy Usage Categorization: Compare energy consumption during peak vs. non-peak hours and study usage by day of the week.
 
-Household_Power_Consumption_Analysis.ipynb: household_power_consumption (1).ipynb
+HOUSEHOLD_POWER_CONSUMPTION:https://colab.research.google.com/github/AdhishkumarT/Household_Power_Consumption/blob/main/household_power_consumption%20(1).ipynb
 
 Conclusion:
 This project allowed me to apply data analysis and visualization techniques to uncover valuable insights into household energy usage. It enhanced my skills in time-series analysis, feature engineering, and creating actionable dashboards. The insights derived from this project can be used to promote energy efficiency and reduce electricity costs.
